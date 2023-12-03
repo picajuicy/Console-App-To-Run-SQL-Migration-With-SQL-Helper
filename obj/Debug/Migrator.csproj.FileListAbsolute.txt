@@ -1,0 +1,8 @@
+C:\Users\Abhishek\Desktop\migrator\Migrator\bin\Debug\Migrator.exe.config
+C:\Users\Abhishek\Desktop\migrator\Migrator\bin\Debug\Migrator.exe
+C:\Users\Abhishek\Desktop\migrator\Migrator\bin\Debug\Migrator.pdb
+C:\Users\Abhishek\Desktop\migrator\Migrator\obj\Debug\Migrator.csproj.AssemblyReference.cache
+C:\Users\Abhishek\Desktop\migrator\Migrator\obj\Debug\Migrator.csproj.SuggestedBindingRedirects.cache
+C:\Users\Abhishek\Desktop\migrator\Migrator\obj\Debug\Migrator.csproj.CoreCompileInputs.cache
+C:\Users\Abhishek\Desktop\migrator\Migrator\obj\Debug\Migrator.exe
+C:\Users\Abhishek\Desktop\migrator\Migrator\obj\Debug\Migrator.pdb
